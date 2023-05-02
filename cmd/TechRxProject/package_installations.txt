@@ -10,6 +10,12 @@ nltk
 django
 djangorestframework
 drf-yasg
+django-cors-headers
+PyJWT
+pyodbc
+django_extensions
+
+
 
 
 
